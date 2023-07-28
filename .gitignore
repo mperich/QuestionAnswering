@@ -1,0 +1,4 @@
+chroma_db/
+config.json
+*.pdf
+reference_materials/*
